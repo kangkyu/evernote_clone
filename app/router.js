@@ -5,10 +5,10 @@ var Router = Ember.Router.extend({
   location: config.locationType
 });
 
-Router.map(function() {
+Router.map(function () {
   this.route('register');
   this.route('login');
-  this.route('notebooks', { path:'notebooks/:user_id'}, function() {});
+  this.route('notebooks', { path: 'notebooks/:user_id'}, function () {});
 });
 
 export default Router;

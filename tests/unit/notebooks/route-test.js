@@ -5,7 +5,8 @@ moduleFor('route:notebooks', 'Unit | Route | notebooks', {
   // needs: ['controller:foo']
 });
 
-test('it exists', function(assert) {
+test('it exists', function (assert) {
   var route = this.subject();
+
   assert.ok(route);
 });

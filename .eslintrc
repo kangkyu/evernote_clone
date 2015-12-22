@@ -1,0 +1,6 @@
+{
+  "extends": "ember",
+  "rules": {
+    "comma-dangle": [2, "never"]
+  }
+}

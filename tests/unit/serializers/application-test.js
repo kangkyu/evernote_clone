@@ -6,7 +6,7 @@ moduleForModel('application', 'Unit | Serializer | application', {
 });
 
 // Replace this with your real tests.
-test('it serializes records', function(assert) {
+test('it serializes records', function (assert) {
   var record = this.subject();
 
   var serializedRecord = record.serialize();
