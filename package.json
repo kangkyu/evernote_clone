@@ -38,7 +38,7 @@
     "ember-data": "1.13.8",
     "ember-disable-proxy-controllers": "^1.0.0",
     "ember-export-application-global": "^1.0.3",
-    "eslint-config-ember": "0.0.5",
+    "eslint-config-ember": "^0.2.0",
     "express": "^4.13.3",
     "glob": "^4.5.3",
     "js-string-escape": "^1.0.0",
