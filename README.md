@@ -11,4 +11,4 @@
 + notebooks list should for one user who logged on
 + create a new notebook
 + display the list of existing notebooks
-+ make each notebook title on the list link to its notes
++ make each notebook title on the list as a link to its notes
