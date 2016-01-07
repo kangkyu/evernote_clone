@@ -12,3 +12,6 @@
 + create a new notebook
 + display the list of existing notebooks
 + make each notebook title on the list as a link to its notes
+
+--
+[tutorial book](https://pragprog.com/book/mwjsember)

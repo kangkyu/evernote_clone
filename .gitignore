@@ -20,6 +20,6 @@ testem.log
 /take_some_notes
 
 # text database
-users
-notebooks
-notes
+/users
+/notebooks
+/notes
